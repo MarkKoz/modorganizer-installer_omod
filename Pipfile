@@ -10,6 +10,7 @@ pytest = "*"
 kaitaistruct = "*"
 "backports.lzma" = "*"
 "pathlib2" = "*"
+"enum34" = "*"
 
 [requires]
 python_version = "2.7"
